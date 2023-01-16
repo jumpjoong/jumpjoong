@@ -1,4 +1,4 @@
-### 민서 훔쳐보지 👋
+### 민서 훔쳐보지마셈 👋
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
 <!--
