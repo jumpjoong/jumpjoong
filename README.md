@@ -15,7 +15,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumpjoong&show_icons=true&theme=prussian)
 </div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumpjoong&layout=compact&theme=tokyonight)
 <!--
 **jumpjoong/jumpjoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
