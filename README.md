@@ -1,4 +1,7 @@
-<h1>연습중👋</h1>
+<h1>Hello! Bro!</h1>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!&nbsp;Bro!%20&fontSize=90)
+
 <div align=center>
     <h2>Skills</h2>
     </br>
@@ -6,8 +9,10 @@
     </br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F9A03C?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/React-09B2DC?style=flat-square&logo=React&logoColor=white"/>&nbsp;
+
 </br>
 </br>
 </br>
