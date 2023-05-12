@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&fontColor=fff&color=auto&height=300&section=header&text=Hello!&nbsp;Bro!%20&fontSize=90)
 
 <div align=center>
-    <h2>Skills</h2>
+    <h2>🛠️Skills</h2>
     </br>
     </br>
     </br>
@@ -14,7 +14,7 @@
     </br>
     </br>
     </br>
-    <h2>Studying</h2>
+    <h2>✏️Studying</h2>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;
 
 </br>
@@ -23,11 +23,11 @@
 </br> 
    
 #
-    
+<h2>🖼️Language</h2>    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumpjoong&layout=compact&theme=tokyonight)
     
     
-   <h2>Stats</h2>
+<h2>📍Stats</h2>
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumpjoong&show_icons=true&theme=prussian)
 
