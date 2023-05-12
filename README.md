@@ -23,7 +23,8 @@
 </br> 
    
 #
-<h2>🖼️Language</h2>    
+<h2>🖼️Language</h2>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumpjoong&layout=compact&theme=tokyonight)
     
     
